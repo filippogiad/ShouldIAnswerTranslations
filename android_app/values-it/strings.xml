@@ -50,7 +50,7 @@
     <string name="cat_telemarketer">1-Telemarketer</string>
     <string name="cat_dept_collector">2- Recupero crediti</string>
     <string name="cat_silent_call">3- Chiamata silenziosa</string>
-    <string name="cat_nuisance_call">4- Chiamata importuna</string>
+    <string name="cat_nuisance_call">4- Chiamata inopportuna</string>
     <string name="cat_unsolicited_call">5- Chiamata indesiderata</string>
     <string name="cat_call_centre">6- Call center</string>
     <string name="cat_fax_machine">7- Fax</string>
