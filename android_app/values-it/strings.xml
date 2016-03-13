@@ -24,7 +24,7 @@
     <!-- Phone Number Info-->
 
     <string name="contacts">Contatti</string>
-    <string name="this_number_is_in_your_contacts">Questo numero è nel suo elenco dei contatti</string>
+    <string name="this_number_is_in_your_contacts">Questo numero è nel tuo elenco dei contatti</string>
     <string name="system">Sistema</string>
     <string name="there_are_no_reviews_yet">Al momento non ci sono commenti per questo numero</string>
 
@@ -48,20 +48,20 @@
 
     <string name="cat_choose_category">0-Scegli categoria</string>
     <string name="cat_telemarketer">1-Telemarketer</string>
-    <string name="cat_dept_collector">2-Recupero crediti</string>
-    <string name="cat_silent_call">3-Chiamata silenziosa</string>
-    <string name="cat_nuisance_call">4-Chiamata disturbo</string>
-    <string name="cat_unsolicited_call">5-Chiamata indesiderata</string>
-    <string name="cat_call_centre">6-Call centre</string>
-    <string name="cat_fax_machine">7-Fax</string>
-    <string name="cat_non_profit_org">8-Organizzazione non profit</string>
-    <string name="cat_political_call">9-Chiamata politica</string>
-    <string name="cat_scam_call">10-Chiamata truffa</string>
-    <string name="cat_prank_call">11-Chiamata scherzo</string>
-    <string name="cat_sms">12-SMS</string>
-    <string name="cat_survey">13-Sondaggio</string>
-    <string name="cat_other">14-Altro</string>
-    <string name="cat_finance_service">15-Servizio finanziario</string>
+    <string name="cat_dept_collector">2- Recupero crediti</string>
+    <string name="cat_silent_call">3- Chiamata silenziosa</string>
+    <string name="cat_nuisance_call">4- Chiamata importuna</string>
+    <string name="cat_unsolicited_call">5- Chiamata indesiderata</string>
+    <string name="cat_call_centre">6- Call center</string>
+    <string name="cat_fax_machine">7- Fax</string>
+    <string name="cat_non_profit_org">8- Organizzazione non profit</string>
+    <string name="cat_political_call">9- Chiamata politica</string>
+    <string name="cat_scam_call">10- Chiamata truffa</string>
+    <string name="cat_prank_call">11- Chiamata scherzo</string>
+    <string name="cat_sms">12- SMS</string>
+    <string name="cat_survey">13- Sondaggio</string>
+    <string name="cat_other">14- Altro</string>
+    <string name="cat_finance_service">15- Servizio finanziario</string>
 
     <string name="like_this_app_rate_us">Ti piace questa app? Valutala.</string>
     <string name="Save">Salva</string>
@@ -76,10 +76,10 @@
     <string name="Unknown">Sconosciuto</string>
     <string name="Positive">Positivo</string>
     <string name="Neutral">Neutrale</string>
-    <string name="Send_Logs_to_Developer">Invia registri allo sviluppatore</string>
+    <string name="Send_Logs_to_Developer">Invia Log allo sviluppatore</string>
     <string name="Drag_me_for_better_positioning">Trascinami per una posizione migliore</string>
     <string name="Service_is_temporarily_unavailable">Al momento il servizio non è disponibile! Riprova più tardi!</string>
-    <string name="For_receiving_user_reviews_we_need_to_send">Per ricevere le recensioni degli utenti dobbiamo inviare il rispettivo numero di telefono al nostro server. Accetti l\'invio dei numeri?</string>
+    <string name="For_receiving_user_reviews_we_need_to_send">Per ricevere le recensioni degli utenti dobbiamo inviare il numero di telefono al nostro server. Accetti l\'invio dei numeri?</string>
     <string name="Agree">Accetto</string>
     <string name="Disagree">Non accetto</string>
     <string name="Permission_Request">Richiesta di autorizzazione</string>
@@ -87,100 +87,100 @@
 
 
     <!-- Rest -->
-    <string name="Notify_blocked_calls">Anunci chiamate bloccate </string>
+    <string name="Notify_blocked_calls">Annunci chiamate bloccate </string>
     <string name="Unsupported_device">Dispositivo non compatibile</string>
-    <string name="This_function_is_not_supported_on_your_device">"Questa funzione non è compatibile con suo dispositivo. "</string>
-    <string name="Community">Comunità</string>
-    <string name="We_are_here_to_protect_you">Noi siamo qui per proteggere a Lui!</string>
-    <string name="Help_us_to_make_world_a_better_place">Aiutateci a migliorare il mondo!</string>
-    <string name="Write_5_star_review">Scriva il giudizio di 5 stelles</string>
-    <string name="Allow_sending_anonymous_stats">Concedere l´invio di statistica anonima</string>
-    <string name="Allow_sending_anonymous_stats_content">Se si attiva questa funzione tutte le chiamate in arrivo nella vostra lista dei contatti vengono inviate al server. Questo vi aiuterà a concentrarsi sui numeri problematici.</string>
-    <string name="Write_phone_number_reviews">Scriva il guidizio di numero telefonico</string>
+    <string name="This_function_is_not_supported_on_your_device">"Questa funzione non è compatibile con il tuo dispositivo. "</string>
+    <string name="Community">Community</string>
+    <string name="We_are_here_to_protect_you">Noi siamo qui per proteggerti!</string>
+    <string name="Help_us_to_make_world_a_better_place">Aiutateci a rendere il mondo un posto migliore!</string>
+    <string name="Write_5_star_review">Dacci un punteggio di 5 stelle!</string>
+    <string name="Allow_sending_anonymous_stats">Concedere l´invio di statistiche anonime</string>
+    <string name="Allow_sending_anonymous_stats_content">Se si attiva questa funzione tutte le chiamate in arrivo nella vostra lista dei contatti vengono inviate al server. Questo vi aiuterà a concentrarvi sui numeri problematici.</string>
+    <string name="Write_phone_number_reviews">Scrivi un guidizio sul numero telefonico</string>
     <string name="Write_phone_number_reviews_content">Se trovate nuove informazioni sul numero chiamato in arrivo Condividilo con la nostra comunità!</string>
-    <string name="Tell_friends_and_share_link_content">Invi un consiglio ai tuoi amici, Condividere il link sui social network, forum, blog .. Aiutateci a trovare nuovi soci.</string>
+    <string name="Tell_friends_and_share_link_content">Invia un consiglio ai tuoi amici, Condividi il link sui social network, forum, blog ...Aiutaci a trovare nuovi amici.</string>
     <string name="Dont_show_again">Non visualizzare di nuovo.</string>
-    <string name="Send_anonymous_stats">Invi statistiche anonime sulle chiamate in arrivo</string>
-    <string name="Blocked_call_from_hidden_number">Bloccare le chiamate di numeri nascosti</string>
-    <string name="Blocked_call_to_foreign_country_number_x">Bloccare chiamata al numero di paese straniero %s</string>
-    <string name="Blocked_call_to_premium_rate_number_x">Bloccare chiamta al numero a pagamento %s</string>
-    <string name="Send_stats_incoming_permission">Se questa funzione è attivata anonimamente inviare le statistiche sulle chiamate in arrivo che non sono nei tuoi contatti. È d\'accordo con l\'invio di chiamate in arrivo al nostro server ?</string>
-    <string name="Write_5_star_review_content">Se pensate che ce lo meritiamo, farlo! Recensioni aiutano i nuovi utenti in decisione di unirsi alla nostra comunità!</string>
-    <string name="Enter_Phone_Number">Introdurre numero telefonico</string>
-    <string name="No_Review">No giudizo</string>
-    <string name="Write_review">SCRIVERE  WRITE RECENSIONE</string>
+    <string name="Send_anonymous_stats">Invia statistiche anonime sulle chiamate in arrivo</string>
+    <string name="Blocked_call_from_hidden_number">Chiamata bloccata proveniente da numero nascosto</string>
+    <string name="Blocked_call_to_foreign_country_number_x">Chiamata bloccata proveniente da un numero di un paese straniero %s</string>
+    <string name="Blocked_call_to_premium_rate_number_x">Chiamata bloccata proveniente da numero a pagamento %s</string>
+    <string name="Send_stats_incoming_permission">Se questa funzione è attivata verranno inviate statistiche anonime sulle chiamate in arrivo che non sono nei tuoi contatti. Sei d\'accordo con l\'invio delle chiamate in arrivo al nostro server?</string>
+    <string name="Write_5_star_review_content">Se pensi che ce lo meritiamo, fallo! Le recensioni aiutano i nuovi utenti indecisi ad unirsi alla nostra comunità!</string>
+    <string name="Enter_Phone_Number">inserisci il numero telefonico</string>
+    <string name="No_Review">Nessun giudizo</string>
+    <string name="Write_review">SCRIVERE UNA RECENSIONE</string>
     <string name="Should_I_Answer_Service">Servizio Chi sta chiamando</string>
-    <string name="If_you_are_satisfied_with_our_service_please_help">Se siete soddisfatto con il nostro servizio, si prega di aiutare la nostra comunità!</string>
+    <string name="If_you_are_satisfied_with_our_service_please_help">Se sei soddisfatto del nostro servizio, aiuta la nostra community!</string>
     <string name="Already_checked_s_calls">%s chiamate già controllate</string>
-    <string name="cat_company">16-Società</string>
-    <string name="cat_service">17-Servizio</string>
+    <string name="cat_company">16- Società</string>
+    <string name="cat_service">17- Servizio</string>
     <string name="Hidden_number">Numero nascosto</string>
-    <string name="About">Di</string>
+    <string name="About">Informazioni</string>
     <string name="Logs">Logs</string>
     <string name="Cancel">Cancellare</string>
-    <string name="Downloading_Update">Sta scaricando aggiornamento</string>
+    <string name="Downloading_Update">Scaricando un aggiornamento</string>
     <string name="Online_Manual">Manuale Online</string>
     <string name="Contact">Contatto</string>
-    <string name="Block">Bloccare</string>
+    <string name="Block">Blocca</string>
     <string name="Update_Database">Aggiornare il database</string>
     <string name="Compatibility_Check">Controllo di compatibilità</string>
     <string name="Clear_Log">Pulisci il registro</string>
-    <string name="Really_clear_checked_calls_log">Veramente cancellare il registro controlato delle chiamate?</string>
+    <string name="Really_clear_checked_calls_log">Sei sicuro di voler cancellare il registro delle chiamate?</string>
     <string name="Yes">Sì</string>
     <string name="No">No</string>
     <string name="Logo">Logo</string>
-    <string name="You_are_one_step_from_protecting_your_phone">È ad un passo dalla protezione del vostro telefono contro le chiamate indesiderate!</string>
+    <string name="You_are_one_step_from_protecting_your_phone">Sei ad un passo dalla protezione del tuo telefono contro le chiamate indesiderate!</string>
     <string name="Terms_of_Use_and_Privacy_policy">Condizioni di utilizzo e Politica sulla Privacy</string>
     <string name="I_agree_to_terms_and_conditions">Accetto i termini e le condizioni</string>
-    <string name="If_you_will_agree_we_will_send_information">Se sarete d\'accordo, vi invieremo le informazioni sulle chiamate in arrivo sconosciute al server per il calcolo delle statistiche anonime che aiutano a individuare nuove minacce.</string>
-    <string name="Latest_database">Ultima base di dati</string>
+    <string name="If_you_will_agree_we_will_send_information">Se si attiva questa funzione, tutti i numeri di telefono in entrata non memorizzati nella lista dei contatti saranno inviati al server. Queste informazioni ci aiutano a concentrarci sulle minacce maggiori.</string>
+    <string name="Latest_database">Database aggiornato</string>
     <string name="Call_Monitoring">Monitoraggio delle chiamate</string>
-    <string name="Show_Alerts_As_System_Overlay">Mostra avvisi come sistema Overlay</string>
+    <string name="Show_Alerts_As_System_Overlay">Mostra avvisi in sovrimpressione</string>
     <string name="General">Generico</string>
     <string name="System_Permissions">Permessi di sistema</string>
     <string name="Read_Call_Information">Leggere informazioni sul chiamata</string>
     <string name="Read_Contacts">Leggere Contatti</string>
-    <string name="Allow_System_Overlays">Permettere sistema Overlays</string>
+    <string name="Allow_System_Overlays">Permettere spostamento su altre App (System Overlay)</string>
     <string name="Show_aftercall_information">Visualizzare informazioni dopo la chiamata.</string>
     <string name="Allow_Access_To_Call_Info">Consentire l\'accesso a informazioni sulle chiamate</string>
     <string name="Allow_Access_To_Contacts">Consentire l\'accesso a contatti</string>
-    <string name="Allow_Create_System_Overlays">Consenti creare sovrapposizioni</string>
-    <string name="Fix_Contacts_Issues">Risolvere problema con i contatti</string>
-    <string name="We_Are_Using_contacts_for_whitelisting">Non riusciamo a recuperare i contatti del telefono, che prendiamo come un elenco di numeri di sicurezza. Se si dispone di contatti memorizzati sul cellulare e non si conosce alcun motivo per cui non hanno potuto accedere all\'applicazione, si prega di contattare il nostro supporto.</string>
+    <string name="Allow_Create_System_Overlays">Consenti lo spostamento su altre app (System Overlay)</string>
+    <string name="Fix_Contacts_Issues">Risolvere problemi con i contatti</string>
+    <string name="We_Are_Using_contacts_for_whitelisting">Non riusciamo ad accedere ai tuoi contatti per creare un elenco di numeri autorizzati. Se i contatti sono memorizzati sul cellulare e non conosci alcun motivo per cui non sia possibile accedere ad essi, ti preghiamo di contattare il nostro supporto.</string>
     <string name="Unaccessible_Contacts">Contatti inaccessibili </string>
-    <string name="Please_chec_the_terms_and_privacy_agreement">Si prega di verificare i termini e sulla privacy.</string>
+    <string name="Please_chec_the_terms_and_privacy_agreement">Si prega di verificare i termini d'utilizzo e la politica sulla riservatezza.</string>
     <string name="welcome_detailedinfo">
-        Stiamo utilizzando telefono nell\'elenco locale di contatti locale come su lista bianca.I contatti non sono inviati al server.
-        Abbiamo bisogno l\'accesso alle vostre telefonate per verificare numero chiamato i numeri contro il nostro base di dati locale.
-        Stiamo utilizzando la finestra sovrapposta per visualizzare le informazioni sull numero di telefono davanti combinatore telefonico.
-        Se avete qualche domanda non esitate a contattarci..    
+        Utilizziamo i tuoi contatti per creare un elenco di numeri autorizzati. I tuoi contatti non sono inviati al server.
+        Abbiamo bisogno di accedere alle telefonate in entrata per confrontare i numeri di telefono con il nostro database locale.
+        Utilizziamo una finestra in sovrimpressione (System Overlay) sull'interfaccia di ricezione della chiamata per visualizzare le informazioni riguardo le chiamate in entrata.
+        Se hai qualche domanda non esitare a contattarci...    
     </string>
     <string name="Phone_Logs">Registri delle chiamate</string>
-    <string name="Achievements_Notification">Statistiche di notificayione (uno per 2 settimane)</string>
+    <string name="Achievements_Notification">Notifica delle statistiche (una ogni 2 settimane)</string>
     <string name="Show_Details">Mostra dettagli</string>
     <string name="Call_Number">Chiamare il numero</string>
     <string name="Copy_To_Clipboard">Copia negli appunti</string>
     <string name="Web_Search">Ricerca sul web</string>
     <string name="Protection_is_active">La protezione è attiva!</string>
-    <string name="Protect_your_friends_Help_our_community">Proteggi i tuoi amici!\nAiutare la nostra comunità!</string>
+    <string name="Protect_your_friends_Help_our_community">Proteggi i tuoi amici!\nAiuta la nostra community!</string>
     <string name="Show_me_how">Mostrami come</string>
-    <string name="Recommend_app_to_your_friends">Raccomanda app per i vostri amici</string>
+    <string name="Recommend_app_to_your_friends">Raccomanda l'app ai tuoi amici</string>
     <string name="Recommend_now">Raccomanda adesso</string>
-    <string name="Recommend_App_To_Friends">accomanda App per Amici</string>
-    <string name="Promo_message_1">Niente problemi con chiamate indesiderate! Controllarla a</string>
-    <string name="Promo_message_2">Fine di telemarketing! Scarica l\'applicazione ShouldIAnswer a</string>
-    <string name="Promo_message_4">Perfetta app contro telemarketing e lo spam, controllarla</string>
+    <string name="Recommend_App_To_Friends">Raccomanda App agli Amici</string>
+    <string name="Promo_message_1">Basta chiamate indesiderate! Controllarla a</string>
+    <string name="Promo_message_2">Basta chiamate di telemarketing! Scarica l\'applicazione "Dovrei Rispondere?". È gratis!</string>
+    <string name="Promo_message_4">L'applicazione perfetta contro il telemarketing e lo spam, provala!</string>
     <string name="Experimental_Function">Funzione sperimentale</string>
     <string name="pickAndHang_description">Questa funzione blocca chiamata in arrivo mediace raccogliere e riagganciare. Applicazione non prende chiamata se telefono è in modalità roaming. Si prega di utilizzare questa funzione solo se si è sicuri di non sarà addebitato per raccogliere le chiamate in arrivo.</string>
     <string name="Service_as_Foreground_Process">Servizio come processo sull primer piato</string>
     <string name="Service_as_foreground_process_description">L\'attivazione di questa funzione accelererà il blocco di chiamate indesiderate. Come effetto collaterale si permanentemente vedere icona di app nella barra di stato e la notificazione sulla protezione attivata.</string>
-    <string name="Database_Needs_Update">Base di dati necessita attualizzare</string>
+    <string name="Database_Needs_Update">Il database deve essere aggiornato</string>
     <string name="Advanced">Avanzate</string>
     <string name="You_must_set_QKSMS_as_default_manager">È necessario impostare QKSMS come SMS Manager predefinito per attivare questa funzione</string>
     <string name="Disable_this_if_your_device_doesnt_display_alerts_properly">Disattivare questa opzione se il dispositivo non visualizza correttamente gli avvisi</string>
     <string name="SMS_restriction_info">A causa di limitazioni del sistema, è necessario utilizzare SMS compatibile. QKSMS da Labs è una alternativa libera e sostiene filtraggio di SMS utilizzando la nostra applicazione. Per attivare questa funzione, è necessario installarla.</string>
     <string name="Required_compatible_SMS_manager">COmpatibilie SMS manager richiesto</string>
-    <string name="Blocking">Bloccando</string>
+    <string name="Blocking">Blocchi</string>
     <string name="Alerts">Avvisi</string>
     <string name="Terms_and_Privacy">Termini e Privacy</string>
     <string name="Should_I_Answer">Devo rispondere?</string>
@@ -218,11 +218,11 @@
     <string name="Use_System_Overlay_for_displaying_of_the_alerts">Utilizzi Overlay System per la visualizzazione degli avvisi</string>
     <string name="notification_blocking">Il blocco è una funzione aggiuntiva utilizzando i metodi del sistema che non sono normalmente disponibili nel nucleo di Android. Modifiche dell\'impianto fatte da alcuni produttori fanno impossibile l\'uso di questa funzione in caso di alcuni apparecchi.</string>
     <string name="Block_INCOMING_Calls_from">Bloccare chiamate IN ARRIVO da</string>
-    <string name="Negative_rated_numbers">Numeri valutatti negativamente</string>
+    <string name="Negative_rated_numbers">Numeri valutati negativamente</string>
     <string name="All_numbers">Tutti i numeri</string>
     <string name="Hidden_numbers">Numeri nascoti</string>
     <string name="Block_OUTGOING_Calls_to">Bloccare chiamate IN USCITA a</string>
-    <string name="Premium_numbers">Premium numeri</string>
+    <string name="Premium_numbers">Numeri Premium </string>
     <string name="Foreign_numbers">Numeri stranieri</string>
     <string name="Block_SMS_and_MMS_from"><![CDATA[Bloccare SMS & MMS da]]></string>
     <string name="Set_Default_SMS_Manager">Set SMS Manager predefinito</string>
@@ -231,7 +231,7 @@
     <string name="Blocked_Calls_and_Messages">Chiamate e messaggi bloccati</string>
     <string name="Application_Status">Stato dell\'applicazione</string>
     <string name="Access_to_Phone_Contacts">L\'accesso a contatti di cellulare</string>
-    <string name="norification_ratings">Qui è possibile configurare come verranno valutato i numeri di telefono.</string>
+    <string name="norification_ratings">Qui è possibile configurare come verranno valutati i numeri di telefono.</string>
     <string name="Phone_Number_Ratings_Filter">Filtro di valutazioni di numeri di telefono</string>
     <string name="Enter_Phone_NUmber_To_Filter_Ratings">Inserisci numero di telefono per filtrare valutazioni</string>
     <string name="Use_Light_Theme">Usi tema luce</string>
@@ -244,7 +244,7 @@
     <string name="Unallowed_All_Numbers">Tutti i numeri non consentiti</string>
     <string name="Unallowed_Unknown_Numbers">Numeri sconosciuti non consentiti</string>
     <string name="Phone_Log_is_loading">Il protocollo viene caricato dal telefono</string>
-    <string name="Use_Community_Database_Rating">Utilizzi database di valutazioni di comunità</string>
+    <string name="Use_Community_Database_Rating">Utilizza il database di valutazioni della community</string>
     <string name="General_Ratings_Rules">Regole generali di valutazione</string>
     <string name="for_numbers_with_mask">per i numeri con la mascara %s</string>
     <string name="for_number_x">per i numeri %s</string>
@@ -275,7 +275,7 @@
     <string name="Import">Importazione</string>
     <string name="Phone_Number_Ratings">Valutazioni di numero di telefono</string>
     <string name="Alerts_Settings">Impostazioni degli avvisi</string>
-    <string name="Blocking_Settings">Bloccando impostazioni</string>
+    <string name="Blocking_Settings">Impostazioni di blocco</string>
     <string name="Clear_actual_ratings">Cancellare valutazioni attuali</string>
     <string name="Invalid_Data_Format_">Formato di dati non valido!</string>
     <string name="Should_I_Answer_Data_Export">Esportazione dei dati da Devo rispondere</string>
