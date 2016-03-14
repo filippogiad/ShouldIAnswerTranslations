@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><resources>
     <!-- Global-->
-    <string name="app_name">Devo rispondere?</string>
+    <string name="app_name">Dovrei rispondere?</string>
     <string name="search">Cerca</string>
     <string name="Settings">Impostazioni</string>
     <string name="privacy">Politica sulla Privacy</string>
@@ -183,7 +183,7 @@
     <string name="Blocking">Blocchi</string>
     <string name="Alerts">Avvisi</string>
     <string name="Terms_and_Privacy">Termini di utilizzo e politica sulla Privacy</string>
-    <string name="Should_I_Answer">Devo rispondere?</string>
+    <string name="Should_I_Answer">Dovrei rispondere?</string>
     <string name="Ratings">Valutazioni</string>
     <string name="App_is_now_updated_to_latest_version">L'app è ora aggiornata alla versione più recente</string>
     <string name="migration8_info1">Questo aggiornamento contiene importanti cambiamenti dell\'interfaccia utente e alcuni miglioramenti. Ci auguriamo che lo troverete più intuitivo e flessibile. Visita le impostazioni per passare al tema scuro.</string>
@@ -271,15 +271,15 @@
     <string name="Export_data_description">Tutte le impostazioni dell'\applicazioni e le tue valutazioni esportate in un file e potranno quindi essere trasferite ad un altro dispositivo</string>
     <string name="Export">Esportazione</string>
     <string name="Import_Application_Data">Importa dati dell'applicazione</string>
-    <string name="Import_Data_Description">Installa l'applicazione "\Devo rispondere?\" sul dispositivo di destinazione e apri il file esportato. L\'estensione del file è associata con l\'applicazione quindi la finestra di importazione dovrebbe essere visualizzata automaticamente.</string>
+    <string name="Import_Data_Description">Installa l'applicazione "\Dovrei rispondere?\" sul dispositivo di destinazione e apri il file esportato. L\'estensione del file è associata con l\'applicazione quindi la finestra di importazione dovrebbe essere visualizzata automaticamente.</string>
     <string name="Import">Importazione</string>
     <string name="Phone_Number_Ratings">Valutazione di un numero di telefono</string>
     <string name="Alerts_Settings">Impostazioni degli avvisi</string>
     <string name="Blocking_Settings">Impostazioni di blocco</string>
     <string name="Clear_actual_ratings">Cancellare le attuali valutazioni</string>
     <string name="Invalid_Data_Format_">Formato di dati non valido!</string>
-    <string name="Should_I_Answer_Data_Export">Esportazione dei dati da "\Devo rispondere?\"</string>
-    <string name="Data_Export_Email_Body">I tuoi dati sono allegati all'\email. Cordialmente la tua app "\Devo rispondere?\"</string>
+    <string name="Should_I_Answer_Data_Export">Esportazione dei dati da "\Dovrei rispondere?\"</string>
+    <string name="Data_Export_Email_Body">I tuoi dati sono allegati all'\email. Cordialmente la tua app "\Dovrei rispondere?\"</string>
     <string name="There_are_no_email_clients_installed">Non c'\è un client di posta elettronica installato.</string>
     <string name="Settings_successfully_imported_">Impostazioni importate correttamente!</string>
     <string name="Invitation_not_finished_">Invito non terminato!</string>
